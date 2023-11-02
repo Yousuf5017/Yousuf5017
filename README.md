@@ -1,6 +1,6 @@
 👋 Hi, I’m @Yousuf5017
-👀 I’m interested in frontend development, particularly HTML, CSS, Bootstrap, and JavaScript.
-🌱 I’m currently learning JavaScript and React.js.
+👀 I’m a front-end developer, particularly in HTML, CSS, Bootstrap, and JavaScript.
+🌱 I’m currently learning React.js.
 💞️ I’m looking to collaborate on web development projects.
 📫 You can reach me at m.yousuf8768@gmail.com.
 
